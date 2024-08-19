@@ -18,7 +18,7 @@
   ],
   "require": {
     "php": ">=8.0.2",
-    "illuminate/support": "^9",
+    "illuminate/support": "^9|^10|^11",
     "creativeorange/laravel-injectable": "^2",
     "spatie/laravel-translatable": "^5.2|^6"
   },
